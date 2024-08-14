@@ -91,7 +91,3 @@ For the example input above, the output will be:
 ```
 Size of the largest non-divisible subset: 3
 ```
-
-## License
-
-This project is open-source and available under the MIT License.
